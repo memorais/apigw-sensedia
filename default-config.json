@@ -1,0 +1,7 @@
+{
+       "sensedia.apigateway.manager.url": "http://172.16.192.213:8080/api-manager",
+       "sensedia.apigateway.manager.credentials" : "YW5hbHl0aWNzOmFuYWx5dGljcw==",
+       "sensedia.apigateway.customerId" : "poc-sicred",
+       "sensedia.apigateway.allowedorigins": "172.16.192.213 54.207.20.78 10.0.0.117",
+       "sensedia.apigateway.brokerList" : "172.16.193.33:9092"
+}
